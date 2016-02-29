@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 通用下载工具
+namespace Util
 {
    
     public static class TextLog
