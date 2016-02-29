@@ -10,8 +10,6 @@ namespace Utility.Dao
     /// <summary>
     /// 针对DBF数据库的操作
     /// 名称：DBFHelper
-    /// 作者：任大可
-    /// 创建日期：2014-04-22
     /// </summary>
     public sealed class DbfHelper
     {

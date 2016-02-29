@@ -15,9 +15,6 @@ namespace 通用下载工具
         /// 添加日志
         /// </summary>
         /// <param name="msgs">日志内容</param>
-        /// <remarks>
-        /// 2014-02-28 add by yzq
-        /// </remarks>
         public static void Add(params object[] msgs)
         {
             string savePath = AppDomain.CurrentDomain.BaseDirectory + "\\log\\";
